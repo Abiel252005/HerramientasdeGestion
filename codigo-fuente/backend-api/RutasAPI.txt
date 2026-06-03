@@ -1,0 +1,15 @@
+Módulo: Backend API Huerto Connect
+
+Rutas principales:
+- POST /usuarios/registro
+- POST /usuarios/login
+- GET /huertos
+- POST /huertos
+- PUT /huertos/:id
+- DELETE /huertos/:id
+- POST /analisis-imagen
+- GET /recomendaciones/:idHuerto
+- GET /regiones
+
+Descripción:
+El backend recibirá solicitudes de la aplicación móvil y web, administrará usuarios, gestionará huertos y se comunicará con los servicios de Inteligencia Artificial.
