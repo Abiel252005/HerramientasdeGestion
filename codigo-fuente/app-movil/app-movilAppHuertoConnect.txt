@@ -1,0 +1,16 @@
+Módulo: Aplicación móvil Huerto Connect
+
+Descripción:
+La aplicación móvil permitirá a los usuarios registrar sus huertos, consultar recomendaciones inteligentes, recibir alertas y acceder al chatbot de asistencia agrícola.
+
+Pantallas consideradas:
+- Inicio de sesión
+- Registro de usuario
+- Panel principal
+- Gestión de huertos
+- Análisis de imagen
+- Chatbot
+- Perfil de usuario
+
+Tecnología propuesta:
+React Native
